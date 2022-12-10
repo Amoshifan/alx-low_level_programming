@@ -7,7 +7,7 @@
 * This program print an output and store it in a variable n.
 * Return: 0
 */
-int main(void)
+int main(void)		// No argument should be sent
 {
 	int n;
 
