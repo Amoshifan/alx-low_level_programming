@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Main - entry point
-* Description: prints if a number is positive or negative.
+* Main - print if a number is positive, zero or negative. 
+* Description: using the main function.
+* This program print an output and store it in a variable n.
 * Return: 0
 */
 int main(void)
