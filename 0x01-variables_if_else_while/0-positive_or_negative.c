@@ -2,13 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Main - print if a number is positive, zero or negative. 
+* Main - print if a number is positive, zero or negative.
+*
 * Description: using the main function.
 * This program print an output and store it in a variable n.
+* betty style doc for function main goes there.
 * Return: 0
 */
-int main(void)		// No argument should be sent
-{
+int main(void)
 	int n;
 
 	srand(time(0));
