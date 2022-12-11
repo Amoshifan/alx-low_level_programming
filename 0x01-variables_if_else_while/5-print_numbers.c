@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints all single digit numbers of base 10 from o
- * Return: Always 0 (succes) 
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -13,6 +13,5 @@ int main(void)
 	{
 		printf("%d", a);
 	}
-	putchar('\n);
-	return (0);
-}
+	putchar('\n');
+	return (0); }
