@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - Entry point
+* main - entry point
 * Description: ptints lowercase alphabet in reverse
 * Reture: Aways 0 (success)
 */
