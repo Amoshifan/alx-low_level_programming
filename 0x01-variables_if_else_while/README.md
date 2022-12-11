@@ -1,1 +1,1 @@
-print lower,upper alphabet case
+print single digit of 10
