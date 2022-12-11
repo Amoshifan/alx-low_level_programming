@@ -1,1 +1,1 @@
-print single digit of 10
+prints the lowercase alphabet in reverse
