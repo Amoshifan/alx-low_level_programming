@@ -6,8 +6,7 @@
  *
  * Return: Number matrix
  */
-
-void print_times_table(int 2)
+void print_times_table(int n);
 {
 	int i, j, product;
 
