@@ -1,1 +1,1 @@
-prints the size of various types on the computer it is compiled
+script that generates the assembly code (Intel syntax) of a C code
